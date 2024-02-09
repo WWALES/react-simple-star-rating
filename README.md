@@ -1,3 +1,7 @@
+git add .
+git commit -m "Agregar sistema de calificación de estrellas"
+git push origin master
+
 # React Simple Rating
 
 > A simple react component for adding a star rating to your project.
